@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 ---
 
+모여서 각자 일하거나 코딩하거나 잡담하거나 혹은 물어보고 이야기 나눌 수 있는 편안한 모임입니다.
 
+가입 신청 전 https://github.com/OpenMogaco/mogaco/wiki/Mogaco-Rules 의 내용을 숙지하여 주십시오.
 
+모각코 페북: fb.com/groups/mogaco
 
-Webjeda cards is a Bootstrap based theme. Any Bootstrap element can be used in the theme. Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
-
-For more themes, visit [jekyll-themes](https://jekyll-themes.com){: target="_blank"}
-
-**Does the theme deserve a star?**
-
-<a class="github-button" href="https://github.com/sharu725/cards" data-style="mega" data-count-href="/sharu725/cards/stargazers" data-count-api="/repos/sharu725/cards#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/cards on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+모여서 각자 코딩하는 모임 지도: https://www.google.com/maps/d/edit?mid=1Vgs0cRJRkrfd0dIJXquiyKcQMco&ll=37.563071023850874%2C126.98955000000001&z=10
