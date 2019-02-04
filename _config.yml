@@ -1,0 +1,61 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Mogaco
+email: http://fb.com/groups/mogaco
+description: > # this means to ignore newlines until "baseurl:"
+  모여서 각자 코딩하는 모임(모.각.코)
+  
+  
+baseurl: "/cards" # the subpath of your site, e.g. /blog
+url: "http://openmogaco.github.io" # the base hostname & protocol for your site
+
+#sidebar
+default-image: mogaco-logo-big.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+
+#footer
+
+built-by: mogaco
+
+copyright:
+   name: mogaco
+   link: 'http://openmogaco.github.io'
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+paginate: 6
+paginate_path: /page:num/
+
+# Tracker
+analytics: UA-83979019-1
+
+# Comments
+disqus: yes
+disqus-shortname: mogaco
+
+#social
+facebook: http://facebook.com/groups/mogaco
+quora: http://quora.com/mogaco
+twitter: http://twitter.com/@mogaco
+github: http://github.com/mogaco
+email: http://fb.com/groups/mogaco
+
+#facebook like box
+fb-like-box: yes
+fb-app-id: 702344126531973
+fb-page-url: https://www.facebook.com/groups/mogaco/
+fb-page-title: mogaco
+
+# Sass style
+sass:
+  style: compressed
+
+# Ruby Gems
+plugins: [jekyll-paginate, jekyll-seo-tag]
+
