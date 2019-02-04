@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Mogaco Rules"
 date:   2019-02-08 10:51:47 +0900
 categories: jekyll update
 img: small-poly-3298069_1920.jpg
