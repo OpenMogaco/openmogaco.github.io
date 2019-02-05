@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome to Mogaco!"
-categories: jekyll update
+categories: notice
 img: small-poly-3310319_1920.jpg
 ---
 

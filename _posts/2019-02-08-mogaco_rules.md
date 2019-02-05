@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mogaco Rules"
-categories: jekyll update
+categories: notice
 img: small-poly-3298069_1920.jpg
 ---
 
