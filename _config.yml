@@ -7,13 +7,12 @@
 
 # Site settings
 title: Mogaco
-email: http://fb.com/groups/mogaco
 description: > # this means to ignore newlines until "baseurl:"
   모여서 각자 코딩하는 모임(모.각.코)
   
-  
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://openmogaco.github.io" # the base hostname & protocol for your site
+future: true 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://openmogaco.github.io" # the base hostname & protocol for your site
 
 #sidebar
 default-image: mogaco-logo.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
@@ -24,7 +23,7 @@ built-by: mogaco
 
 copyright:
    name: mogaco
-   link: 'http://openmogaco.github.io'
+   link: 'https://openmogaco.github.io'
 
 # Build settings
 markdown: kramdown
@@ -36,15 +35,11 @@ paginate_path: /page:num/
 analytics: UA-133695797-1
 
 # Comments
-disqus: yes
-disqus-shortname: mogaco
+disqus: no
 
 #social
-facebook: http://facebook.com/groups/mogaco
-quora: 
-twitter: 
-github: http://github.com/OpenMogaco
-email: 
+facebook: https://www.facebook.com/groups/mogaco
+github: https://github.com/OpenMogaco
 
 #facebook like box
 fb-like-box: yes
@@ -58,4 +53,3 @@ sass:
 
 # Ruby Gems
 plugins: [jekyll-paginate, jekyll-seo-tag]
-
