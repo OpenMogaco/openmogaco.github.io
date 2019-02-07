@@ -10,7 +10,7 @@ title: Mogaco
 description: > # this means to ignore newlines until "baseurl:"
   모여서 각자 코딩하는 모임(모.각.코)
   
-future: true 
+future: false
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://openmogaco.github.io" # the base hostname & protocol for your site
 
