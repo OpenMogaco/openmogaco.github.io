@@ -2,6 +2,7 @@
 layout: post
 title: "Mogaco Rules"
 categories: notice
+excerpt: "모각코 페이스북 그룹에서 지켜주셔야 할 규칙들이 있습니다. 꼭 읽어보세요."
 img: small-poly-3298069_1920.jpg
 ---
 

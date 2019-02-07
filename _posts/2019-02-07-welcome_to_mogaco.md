@@ -2,6 +2,7 @@
 layout: post
 title: "Welcome to Mogaco!"
 categories: notice
+excerpt: "모각코 공식 홈페이지를 새로 오픈했습니다!"
 img: small-poly-3310319_1920.jpg
 ---
 
